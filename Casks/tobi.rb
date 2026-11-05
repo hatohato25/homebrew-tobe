@@ -4,10 +4,10 @@ cask "tobi" do
 
   url "https://github.com/hatohato25/tobi/releases/download/v#{version}/Tobi-#{version}.zip"
   name "Tobi"
-  desc "Keyboard-driven hint mode for every macOS app"
+  desc "Keyboard-driven hint mode for every app"
   homepage "https://github.com/hatohato25/tobi"
 
-  depends_on macos: ">= :golden_gate"
+  depends_on macos: :golden_gate
 
   app "Tobi.app"
 
