@@ -1,7 +1,7 @@
-# Homebrew tap for Tobi
+# Homebrew tap for Tobe
 
 ```sh
-brew install --cask hatohato25/tobi/tobi
+brew install --cask hatohato25/tobe/tobe
 ```
 
-See [Tobi](https://github.com/hatohato25/tobi) for details.
+See [Tobe](https://github.com/hatohato25/tobe) for details.
