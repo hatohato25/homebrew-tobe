@@ -1,6 +1,6 @@
 cask "tobe" do
-  version "0.2.3"
-  sha256 "cead64d7dfeb5cb5ad271049f63c4b4f8b237d8dd286ad8dbb77b372ec6c9587"
+  version "0.2.4"
+  sha256 "8f846b36b5f0e0484a8ef27131150bc5e2347d51e8714d8ed72783da44f943e5"
 
   url "https://github.com/hatohato25/tobe/releases/download/v#{version}/Tobe-#{version}.zip"
   name "Tobe"
